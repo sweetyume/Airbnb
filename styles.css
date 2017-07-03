@@ -1,0 +1,62 @@
+/*------------------------------------*\
+        GENERAL
+\*------------------------------------*/
+
+body {
+  box-sizing: border-box;
+  padding: 0;
+}
+h1 span{
+  color: #FF5A5F;
+}
+/*------------------------------------*\
+        SEARCH BAR BLOCK2
+\*------------------------------------*/
+
+
+/*------------------------------------*\
+        MENU NAV2 BLOCK3
+\*------------------------------------*/
+
+
+
+
+/*------------------------------------*\
+        EXPERIENCES BLOCK4
+\*------------------------------------*/
+.rowHeader .title-block {
+  display: flex;
+}
+.btn-plus {
+
+  border: none;
+  background-color: transparent;
+
+}
+.exp-contents {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.exp-box {
+  margin: 10px;
+}
+
+/*------------------------------------*\
+        LOGEMENTS BLOCK5
+\*------------------------------------*/
+.logement-contents {
+  display: flex;
+  justify-content: space-between;
+  height: auto;
+  width: 100%;
+
+}
+/*------------------------------------*\
+        DESTINATION BLOCK5
+\*------------------------------------*/
+.destination-contents {
+  display: flex;
+  justify-content: space-between;
+  margin: 2px;
+}
